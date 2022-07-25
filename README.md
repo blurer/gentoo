@@ -1,0 +1,2 @@
+# gentoo
+gentoo install script
